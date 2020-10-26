@@ -18,7 +18,7 @@
 
 ![screenshot](https://github.com/abhishekbu/Todo-list-App/blob/master/images/todolist.png)
 
-- Minimal setup and easy to use framework
+- Simple Todo list App with Database support
 
 ### Built With
 
