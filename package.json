@@ -8,11 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "engines":{
+  "engines": {
     "node": "12.18.4"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
+    "bulma-start": "0.0.4",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "lodash": "^4.17.11",
