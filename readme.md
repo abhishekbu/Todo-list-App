@@ -16,7 +16,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/abhishekbu/Javascript-testing-framework/blob/master/images/sampleproject_test.png)
+![screenshot](https://github.com/abhishekbu/Todo-list-App/blob/master/images/todolist.png)
 
 - Minimal setup and easy to use framework
 
