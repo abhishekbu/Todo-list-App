@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
 mongoose.connect(
-  "mongodb://localhost:27017/wikiDB",
+  "mongodb+srv://admin-abhishek:abhi1234@cluster0.j4dq1.mongodb.net/todolistDB",
   { useNewUrlParser: true },
   function (err, db) {
     if (err) {
@@ -56,7 +56,7 @@ app.get("/", function (req, res) {
         if (err) {
           console.log(err);
         } else {
-          console.log("Successfully savevd default items to DB.");
+          console.log("Successfully saved default items to DB.");
         }
       });
       res.redirect("/");
